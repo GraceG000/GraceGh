@@ -51,7 +51,7 @@ What truly inspires me is **crafting engaging user experiences** through **clean
 ### 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/grace-ghansah-47455b225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/grace-ghansah-47455b225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/GraceGhans48560" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
 

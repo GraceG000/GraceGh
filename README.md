@@ -23,6 +23,17 @@ What truly inspires me is **crafting engaging user experiences** through **clean
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,figma,vite,nodejs,git,github" />
 </p>
 
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- NextJS
+- Angular
+- Tailwind CSS
+- Figma
+- Penpot
+
 ---
 
 <!-- 🧩 CURRENT FOCUS -->

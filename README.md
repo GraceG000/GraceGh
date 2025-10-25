@@ -36,26 +36,14 @@ What truly inspires me is **crafting engaging user experiences** through **clean
 
 ---
 
-<!-- 📁 FEATURED PROJECTS -->
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Demo/Repo |
-|----------|--------------|------------|------------|
-| **UI Dashboard App** | A responsive analytics dashboard with dynamic charts and smooth navigation. | React, TailwindCSS, Recharts | [🔗 View Repo](https://github.com/YOUR_GITHUB_USERNAME/ui-dashboard) |
-| **Hotel Management System** | Web-based solution with clean UI and form validation. | Angular, TypeScript, RxJS | [🔗 View Repo](https://github.com/YOUR_GITHUB_USERNAME/hotel-management) |
-| **Portfolio Website** | Personal site showcasing skills, projects, and blogs. | Next.js, Framer Motion | [🔗 View Repo](https://github.com/YOUR_GITHUB_USERNAME/portfolio) |
-
-> 💬 *Each project is designed to demonstrate real-world problem-solving and user-centered design.*
-
----
-
 <!-- 🏆 ACHIEVEMENTS -->
 ### 🏆 Achievements & Certifications
 
-- 🎓 ALX Pro Frontend Development Learner
-- 🏅 Completed multiple UI/UX implementation challenges
-- 🧠 Ongoing contributor to community-based open-source projects
-- 💬 Regularly participate in code reviews and design discussions
+- 🎓 ALX ProDev Frontend and Frontend Web Development Learner
+- 🏅 Currently serving as an assistant team lead in an IT company
+- 🧠 Designed UI/UX for my company's external and internal projects
+- 🧠 Implemented UI/UX Design for my company's external and internal projects
+- 💬 Facilitated training sessions to teach users how to navigate through my company's web apps
 
 ---
 
@@ -63,23 +51,12 @@ What truly inspires me is **crafting engaging user experiences** through **clean
 ### 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/grace-ghansah-47455b225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/GraceGhans48560" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- ⚙️ STATS -->
-### ⚙️ GitHub Analytics
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 <!-- 💬 QUOTE -->
 <h3 align="center">“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs</h3>
